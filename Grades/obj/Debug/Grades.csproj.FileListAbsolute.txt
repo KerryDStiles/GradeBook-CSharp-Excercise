@@ -1,0 +1,6 @@
+D:\Pluralsight\Grades\Grades\bin\Debug\Grades.exe.config
+D:\Pluralsight\Grades\Grades\bin\Debug\Grades.exe
+D:\Pluralsight\Grades\Grades\bin\Debug\Grades.pdb
+D:\Pluralsight\Grades\Grades\obj\Debug\Grades.csprojResolveAssemblyReference.cache
+D:\Pluralsight\Grades\Grades\obj\Debug\Grades.exe
+D:\Pluralsight\Grades\Grades\obj\Debug\Grades.pdb
